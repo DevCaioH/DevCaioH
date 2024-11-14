@@ -9,7 +9,7 @@
     
 <div style="display: inline_block"><br>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vue,nodejs,ts,angular,git,docker,mongodb,php,py,discord,vscode&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vue,nodejs,ts,angular,git,docker,php,py,discord,vscode, mongodb,mysql&perline=5"/>
   </a>
   
 
